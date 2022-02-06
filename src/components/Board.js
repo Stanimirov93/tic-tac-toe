@@ -25,7 +25,7 @@ function Board() {
       setSquare(squares);
       setX(!X);
     } else {
-      alert("Can't do that");
+      alert("Can't do that!");
     }
   };
 
